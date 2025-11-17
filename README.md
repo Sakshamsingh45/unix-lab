@@ -35,7 +35,7 @@ Make sure the following are installed:
 - `curl`
 - `grep`, `sed`, `nl`, `clear` (standard Unix utilities)
 
-Check curl:
 
-```bash
-curl --version
+
+<img width="774" height="456" alt="image" src="https://github.com/user-attachments/assets/39d0ff49-e0b6-4139-b52c-ad866888b0ba" />
+<img width="1177" height="594" alt="image" src="https://github.com/user-attachments/assets/1094b52e-90e1-4121-b8bb-ed6b5f01ff09" />
